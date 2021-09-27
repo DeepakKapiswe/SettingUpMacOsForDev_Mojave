@@ -1,9 +1,9 @@
-#install brew
+# install brew
 copy and paste this command to install homebrew package manager
 
 >  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-#install the Haskell stack tool
+# install the Haskell stack tool
 
 > curl -sSL https://get.haskellstack.org/ | sh
 
