@@ -1,5 +1,5 @@
-#nginx related
+# nginx related
 
-##to stop nginx
+## to stop nginx
 
 > nginx -s stop
